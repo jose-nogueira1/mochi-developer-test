@@ -3,7 +3,8 @@
 Requerimentos para completar:
 
     Lista de Tarefas com React:
-        - Pode usar create-react-app, next JS ou instalar manualmente o mínimo de dependencias-Babel/react/react-dom e todas as outras dependências (maneira preferida).
+        -Pode usar create-react-app, next JS ou instalar manualmente o mínimo de 
+        dependencias-Babel/react/react-dom e todas as outras dependências (maneira preferida).
         -Para React tente apenas usar componentes funcionais.
 
     O usuário deve conseguir adicionar/remover/atualizar/apagar TODOS ao mesmo tempo.
@@ -26,7 +27,8 @@ Requerimentos para completar:
                 -Redux
                 -React-redux
 
-    Será testado em padrões de ‘design’, práticas recomendadas em organizações de diretórios, javascript moderno e princípios funcionais como imutabilidade.
+    Será testado em padrões de ‘design’, práticas recomendadas em organizações de diretórios, 
+    javascript moderno e princípios funcionais como imutabilidade.
 
 Bónus: Altamente recomendável que faça.
 
