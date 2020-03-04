@@ -48,3 +48,16 @@ Bónus: Altamente recomendável que faça.
         -Pode implementar o seu próprio servidor.
         -Pode falsificar uma chamada de servidor criando o seu próprio JSON, criando uma promisse e timers.
 
+Para começar o teste
+
+1. Faça Git Clone para a sua maquina.
+
+### git clone
+
+2. Cria o seu propio Branch e trabalhe na sua Branch
+
+### git checkout -b <nome do branch>
+
+3. Quando acabar fazer push para o repositorio.
+
+### git push origin <nome do seu branch>
