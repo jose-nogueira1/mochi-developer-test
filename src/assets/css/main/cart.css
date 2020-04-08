@@ -1,0 +1,84 @@
+.side-cart-holder{
+    max-width: 300px;
+    width: 100%;
+    height: 100vh;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    overflow-y: auto;
+    right:-320px;
+}
+.side-cart-holder-active{
+    right: 0px;
+}
+.no-items-text, .how-to-add-text{
+    text-align: center;
+    color: rgb(63, 63, 63);
+}
+.side-cart-list{
+    list-style: none;
+}
+.side-card-list-item{
+list-style-type: none;
+}
+.side-cart-list-item-card-image{
+    border-radius: 4px;
+    height: 20px;
+    width: 20px;
+    object-fit: cover;
+    margin-right: 30px;
+}
+.side-cart-list-item-card{
+    min-height: 80px;
+    transition: box-shadow 200ms ease-in-out;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+    max-width: 260px ;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.side-cart-list-item-card:hover {
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+}
+.side-cart-list-item-card-info-manager-btn{
+border: none;
+border-radius: 4px;
+padding: 12px 16px;
+margin: 5px;
+color: #ffffff;
+}
+
+.invisible{
+    display: none;
+}
+.empty-basket-btn{
+    padding: 12px 16px;
+    border-radius:4px;
+    display:block;
+    width:100%;
+    border:none;
+    color:#fff;
+    background-color:orange;
+
+}
+.blue-btn{
+    background-color: royalblue;
+}
+.red-btn{
+    background-color: rgb(194, 51, 51);;
+}
+.mb-3{
+    margin-bottom:30px;
+}
+.opened{
+
+}
+.closed{
+
+}

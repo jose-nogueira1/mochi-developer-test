@@ -3,7 +3,7 @@
 Requerimentos para completar:
 
     Lista de Tarefas com React:
-
+        -Testing upload
         -Pode usar create-react-app, next JS ou instalar manualmente o mínimo de 
         dependencias-Babel/react/react-dom e todas as outras dependências (maneira preferida).
 
